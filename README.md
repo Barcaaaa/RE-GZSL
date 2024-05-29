@@ -1,2 +1,2 @@
 # RE-GZSL
-Generalized Zero-Shot Learning
+The code for "Relation Extrapolation for Generalized Zero-Shot Learning"
