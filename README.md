@@ -1,12 +1,14 @@
-# **Relation Extrapolation for Generalized Zero-Shot Learning [TCSVT 2024]**
+# **RE-GZSL: Relation Extrapolation for Generalized Zero-Shot Learning [TCSVT 2024]**
 
 :fire: This is the official PyTorch implementation of our work. :fire:
 
-:panda_face: We are now preparing to refactor our code. The full release will be available soon!
+> [**RE-GZSL: Relation Extrapolation for Generalized Zero-Shot Learning**](https://doi.org/10.1109/TCSVT.2024.3486074)       
+> [Yao Wu](https://scholar.google.com.hk/citations?user=QYbmS-YAAAAJ&hl=zh-CN), Xia Kong, Yuan Xie, Yanyun Qu  
+> *Published in: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.*
 
 ## News
-* **2024-10-15** :loudspeaker: This work has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
-* **2024-07-10** :rocket: We release the initial code for RE-GZSL.
+* **2024-10** :loudspeaker: This work has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
+* **2024-07** :rocket: We release the initial code for RE-GZSL.
 
 ## Overview
 ![framework](doc/framework.jpg)
